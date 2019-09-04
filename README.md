@@ -4,6 +4,10 @@ An Emacs port of the
 [hallski/spacedust](https://github.com/hallski/spacedust-theme) color
 theme.
 
+### Screenshot
+
+![spacedust-theme](spacedust-theme.png)
+
 ## Installation
 
 ### Manually
